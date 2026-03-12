@@ -19,8 +19,8 @@ I develop innovative educational technology solutions, with a special focus on m
 - Complete DNB (Diplomate of National Board) exam preparation suite
 - [View on Google Play](https://play.google.com/store/apps/details?id=com.docodexlabs.prepdnb)
 
-#### 🎓 **Dyzee** - Medical Education Platform
-- Interactive medical education application
+#### 🎓 **Dyzee** - Toss & Dice - Digital Coin Flip and Dice Roller
+- Digital replacement for physical dice and coin tosses
 - [View on Google Play](https://play.google.com/store/apps/details?id=com.docodexlabs.dyzee)
 
 #### 🥋 **MAB Ninja** - Medical Knowledge Hub
